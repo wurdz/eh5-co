@@ -7,6 +7,7 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 module.exports = {
   siteMetadata: {
     siteTitleAlt: `eh5 - Cloud Ruler | Conversion copywriter`,
+    siteTitle: `eh5`,
   },
   plugins: [
     {
